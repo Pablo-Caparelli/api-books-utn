@@ -1,0 +1,102 @@
+[
+  {
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "año": 1967
+  },
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "año": 1949
+  },
+  {
+    "titulo": "Orgullo y prejuicio",
+    "autor": "Jane Austen",
+    "año": 1813
+  },
+  {
+    "titulo": "Crimen y castigo",
+    "autor": "Fiódor Dostoyevski",
+    "año": 1866
+  },
+  {
+    "titulo": "El principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "año": 1943
+  },
+  {
+    "titulo": "Rayuela",
+    "autor": "Julio Cortázar",
+    "año": 1963
+  },
+  {
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "año": 1953
+  },
+  {
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "año": 1605
+  },
+  {
+    "titulo": "Matar a un ruiseñor",
+    "autor": "Harper Lee",
+    "año": 1960
+  },
+  {
+    "titulo": "El nombre de la rosa",
+    "autor": "Umberto Eco",
+    "año": 1980
+  },
+  {
+    "titulo": "Los miserables",
+    "autor": "Victor Hugo",
+    "año": 1862
+  },
+  {
+    "titulo": "El guardián entre el centeno",
+    "autor": "J.D. Salinger",
+    "año": 1951
+  },
+  {
+    "titulo": "Ensayo sobre la ceguera",
+    "autor": "José Saramago",
+    "año": 1995
+  },
+  {
+    "titulo": "La sombra del viento",
+    "autor": "Carlos Ruiz Zafón",
+    "año": 2001
+  },
+  {
+    "titulo": "Las venas abiertas de América Latina",
+    "autor": "Eduardo Galeano",
+    "año": 1971
+  },
+  {
+    "titulo": "Tokio Blues (Norwegian Wood)",
+    "autor": "Haruki Murakami",
+    "año": 1987
+  },
+  {
+    "titulo": "La casa de los espíritus",
+    "autor": "Isabel Allende",
+    "año": 1982
+  },
+  {
+    "titulo": "El lobo estepario",
+    "autor": "Hermann Hesse",
+    "año": 1927
+  },
+  {
+    "titulo": "Trilogía de Nueva York",
+    "autor": "Paul Auster",
+    "año": 1985
+  },
+  {
+    "titulo": "Pedro Páramo",
+    "autor": "Juan Rulfo",
+    "año": 1955
+  }
+]

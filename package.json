@@ -1,0 +1,25 @@
+{
+  "name": "clase13-14-05-2025",
+  "version": "1.0.0",
+  "description": "- Conexión a la base de datos\r - CRUD de operaciones posibles\r - Manejando las peticiones",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn ./src/index.ts",
+    "build": "tsc",
+    "start": "node ./dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cors": "^2.8.18",
+    "@types/express": "^5.0.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.3"
+  }
+}
