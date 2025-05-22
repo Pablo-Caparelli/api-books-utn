@@ -5,7 +5,7 @@ import cors from "cors";
 import dotenv from "dotenv";
 dotenv.config();
 
-process.loadEnvFile(); //cargando variables de entorno
+// process.loadEnvFile(); //cargando variables de entorno
 
 //1235
 const PORT = process.env.PORT;

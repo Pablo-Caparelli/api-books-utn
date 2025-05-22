@@ -1,6 +1,6 @@
 import { connect } from "mongoose";
 
-process.loadEnvFile();
+// process.loadEnvFile();
 import dotenv from "dotenv";
 dotenv.config();
 
